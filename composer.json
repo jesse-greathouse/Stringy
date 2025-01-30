@@ -48,7 +48,7 @@
         "php": ">=8.1.0",
         "ext-json": "*",
         "defuse/php-encryption": "~2.0",
-        "jesse-greathouse/portable-utf8": "dev-main",
+        "jesse-greathouse/portable-utf8": "dev-master",
         "voku/arrayy": "~7.8",
         "voku/urlify": "~5.0",
         "voku/anti-xss": "~4.1",
